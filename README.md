@@ -2,7 +2,7 @@
 <body>
 
 <h1>This is Rudra tech</h1>
-<a href="https://.youtube.com>This is my app</a>
+<a href="https://youtube.com>This is my app</a>
 <!--
 **RudraTech4841/RudraTech4841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
